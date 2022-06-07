@@ -1,0 +1,20 @@
+{
+    "name": "bash-shell-extension-pack",
+    "displayName": "Bash Shell Extension Pack",
+    "description": "Collection of extensions for shell scripting ",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "jeff-hykin.better-shellscript-syntax",
+		"foxundermoon.shell-format",
+		"mads-hartmann.bash-ide-vscode",
+		"rogalmic.bash-debug",
+		"timonwong.shellcheck" 
+    ]
+}
