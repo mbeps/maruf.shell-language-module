@@ -1,6 +1,6 @@
 {
-    "name": "bash-shell-extension-pack",
-    "displayName": "Bash Shell Extension Pack",
+    "name": "bash-shell-language-module",
+    "displayName": "Bash Shell Language Module",
     "description": "Collection of extensions for shell scripting ",
     "version": "0.0.1",
     "publisher": "Maruf",
